@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request6ProgressKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-16T15:18:06" hostname="Abanoubs-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="testProgress" classname="tasks.Request6ProgressKtTest" time="0.007"/>
+  <system-out><![CDATA[1338 [Test worker @coroutine#7] INFO  Contributors - org: loaded 3 repos
+1339 [Test worker @coroutine#7] INFO  Contributors - repo-1: loaded 2 contributors
+1340 [Test worker @coroutine#7] INFO  Contributors - repo-2: loaded 2 contributors
+1340 [Test worker @coroutine#7] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request7ChannelsKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-16T15:18:06" hostname="Abanoubs-MacBook-Air.local" time="0.015">
+  <properties/>
+  <testcase name="testChannels" classname="tasks.Request7ChannelsKtTest" time="0.015"/>
+  <system-out><![CDATA[1348 [Test worker @coroutine#8] INFO  Contributors - org: loaded 3 repos
+1353 [Test worker @coroutine#11] INFO  Contributors - repo-3: loaded 2 contributors
+1355 [Test worker @coroutine#9] INFO  Contributors - repo-1: loaded 2 contributors
+1356 [Test worker @coroutine#10] INFO  Contributors - repo-2: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

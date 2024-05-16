@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request4SuspendKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-16T15:18:06" hostname="Abanoubs-MacBook-Air.local" time="0.218">
+  <properties/>
+  <testcase name="testSuspend" classname="tasks.Request4SuspendKtTest" time="0.218"/>
+  <system-out><![CDATA[1311 [Test worker @coroutine#2] INFO  Contributors - org: loaded 3 repos
+1312 [Test worker @coroutine#2] INFO  Contributors - repo-1: loaded 2 contributors
+1312 [Test worker @coroutine#2] INFO  Contributors - repo-2: loaded 2 contributors
+1312 [Test worker @coroutine#2] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
